@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning projects, having fun with classical algorithms.
+Posture detection using generated data, and models using YOLO for real time detection.
